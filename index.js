@@ -44,6 +44,7 @@ function getWeather(){
                 tempValue.style.color='#fff'
             }else{
                 containerBox.style.backgroundImage='url(https://raw.githubusercontent.com/daihoangnam3it/weatherbasic.github.io/master/day.png)';
+
                 weatherDay.style.color='#f6f5f5';
                 locationWeather.style.color='#f6f5f5';
                 tempValue.style.color='#4f8a8b'            
